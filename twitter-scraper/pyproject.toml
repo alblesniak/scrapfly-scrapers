@@ -14,6 +14,8 @@ python = "^3.10"
 scrapfly-sdk = "^0.8.5"
 loguru = "^0.7.0"
 jmespath = "^1.0.1"
+sqlalchemy = "^2.0.32"
+pytz = "^2024.1"
 
 [tool.poetry.group.dev.dependencies]
 black = "^23.3.0"
